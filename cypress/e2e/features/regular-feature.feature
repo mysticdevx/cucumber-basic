@@ -13,7 +13,6 @@ Feature: Regular feature file
     And use chained cypress command
     Then verify items
 
-#    Pay attention to this scenario please
   @issue("ABC-123457")
   Scenario: Regular passing scenario with cy session
     Given visit base url
