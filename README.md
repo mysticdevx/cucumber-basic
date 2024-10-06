@@ -3,7 +3,7 @@
 
 ### packages used in this example - thanks to all the contributors:
 
-- [@badeball/cypress-cucumber-preprocessor v21.0.1](https://github.com/badeball/cypress-cucumber-preprocessor/tree/master),
+- [@badeball/cypress-cucumber-preprocessor v21.0.2](https://github.com/badeball/cypress-cucumber-preprocessor/tree/master),
 - [@bahmutov/cypress-esbuild-preprocessor v2.2.3](https://github.com/bahmutov/cypress-esbuild-preprocessor)
 - [esbuild](https://github.com/evanw/esbuild#readme)
 
